@@ -1,0 +1,85 @@
+{
+  "company": "OpenAI",
+  "sign": "OpenAI",
+  "floors": [
+    {
+      "name": "Models",
+      "icon": "cube",
+      "built": [
+        { "label": "GPT-5", "icon": "cube" },
+        { "label": "gpt-oss", "icon": "lock" },
+        { "label": "Sora 2", "icon": "video" },
+        { "label": "gpt-image", "icon": "image" },
+        { "label": "gpt-\nrealtime", "icon": "mic" }
+      ],
+      "bought": { "items": [{ "name": "neptune.ai", "year": 2025, "value": "<$400M" }] }
+    },
+    {
+      "name": "Platform",
+      "icon": "code",
+      "built": [
+        { "label": "Responses\nAPI", "icon": "code" },
+        { "label": "Agents\nSDK", "icon": "core" },
+        { "label": "AgentKit", "icon": "nodes" },
+        { "label": "Fine-\ntuning", "icon": "sliders" }
+      ],
+      "bought": { "items": [{ "name": "Rockset", "year": 2024 }, { "name": "Promptfoo", "year": 2026 }] }
+    },
+    {
+      "name": "ChatGPT",
+      "icon": "chat",
+      "built": [
+        { "label": "ChatGPT", "icon": "chat" },
+        { "label": "Atlas\nbrowser", "icon": "globe" },
+        { "label": "Pulse", "icon": "pulse" },
+        { "label": "Sora\napp", "icon": "phone" }
+      ],
+      "bought": { "items": [{ "name": "Statsig", "year": 2025, "value": "$1.1B" }, { "name": "Sky", "year": 2025, "flex": 0.75 }] }
+    },
+    {
+      "name": "Agents",
+      "icon": "terminal",
+      "built": [
+        { "label": "Codex", "icon": "terminal" },
+        { "label": "ChatGPT\nagent", "icon": "cursor" },
+        { "label": "Deep\nResearch", "icon": "search" }
+      ],
+      "bought": { "items": [{ "name": "Ona", "year": 2026 }, { "name": "Astral", "year": 2026, "pending": true }] }
+    },
+    {
+      "name": "Commerce",
+      "icon": "cart",
+      "built": [
+        { "label": "Instant\nCheckout", "icon": "cart" },
+        { "label": "Agentic\nCommerce\nProtocol", "icon": "arrows", "flex": 1.25 },
+        { "label": "Apps\nSDK", "icon": "grid" },
+        { "label": "Ads", "icon": "megaphone", "flex": 0.8 }
+      ],
+      "bought": { "items": [{ "name": "Notch", "year": 2026, "note": "→ Ads" }] }
+    },
+    {
+      "name": "New bets",
+      "icon": "spark",
+      "highlight": true,
+      "built": [
+        { "label": "ChatGPT\nHealth", "icon": "heart" },
+        { "label": "Custom\nchips", "sub": "w/ Broadcom", "icon": "chip" },
+        { "label": "OpenAI for\nScience", "icon": "flask" }
+      ],
+      "bought": {
+        "layout": "rows",
+        "items": [
+          { "name": "io", "year": 2025, "value": "$6.5B" },
+          { "name": "Glass Imaging", "year": 2026, "value": "$300M+" },
+          { "name": "Torch", "year": 2026, "value": "~$60M" }
+        ]
+      }
+    }
+  ],
+  "basement": {
+    "name": "STARGATE",
+    "line": "with SoftBank · Oracle · MGX  ·  10 GW, $500B target",
+    "icon": "servers"
+  },
+  "footer": "25 acquisitions since 2023; 11 shown. Sources: OpenAI, Reuters, Bloomberg, CNBC, TechCrunch. Nov 2026."
+}
