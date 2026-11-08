@@ -63,7 +63,7 @@ OpenAI, floor by floor.
 > Below ground: Stargate, $500B with SoftBank, Oracle and MGX.
 > On the side: 25 companies bought since 2023.
 
-9 of those were acqui-hires, and most of those apps are gone now. They were buying the people.
+9 were acqui-hires and most of those apps are gone now. They wanted the people.
 ```
 
 ## Data format
